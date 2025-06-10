@@ -1,0 +1,31 @@
+.footer{
+
+    bottom: 0;
+    font-style: italic;
+    color: blueviolet;
+    text-align: left;
+    padding: 20px;
+    display: contents;
+}
+h3{
+    font-size: 15px;
+}
+address{
+    color: black;
+}
+h1{
+    background-color: yellow;
+}
+.container{
+    background-color: yellowgreen;
+}
+a{
+ text-align: right;
+    cursor: pointer;
+    text-align: justify;
+  
+}
+li{
+    float: right;
+    box-sizing: border-box;
+}
